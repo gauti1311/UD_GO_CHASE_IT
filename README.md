@@ -9,20 +9,27 @@ A simple robot build in Gazebo with lidar and camera follows a white ball.
 2. GAZEBO
 3. C++ 
 
-# Build
-1. create catkin_ws
-2. clone this repository
-3. catkin_make
-
-# launch  and run 
-open terminal  
-$ cd catkin_ws
-$ source devel/setup.bash
-$ roslaunch my_robot world.launch
-
-Another  terminal  
-$ cd catkin_ws
-$ source devel/setup.bash
-$ roslaunch ball_chaser ball_chaser.launch
-
+## Installation
+```
+cd catkin_ws/src/
+git clone https://github.com/gauti1311/Ud_GO_CHASE_IT
+```
+## Build
+```
+cd ~/catkin_ws
+caktin_make
+```
+## Run the Project
+open a termnial
+```
+cd catkin_ws
+source devel/setup.bash
+roslaunch my_robot world.launch
+```
+in another terminal 
+```
+cd catkin_ws
+source devel/setup.bash
+roslaunch ball_chaser ball_chaser.launch
+```
 
