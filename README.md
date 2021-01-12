@@ -12,7 +12,7 @@ A simple robot build in Gazebo with lidar and camera follows a white ball.
 ## Installation
 ```
 cd catkin_ws/src/
-git clone https://github.com/gauti1311/Ud_GO_CHASE_IT
+git clone https://github.com/gauti1311/UD_GO_CHASE_IT
 ```
 ## Build
 ```
