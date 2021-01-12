@@ -1,6 +1,6 @@
 # UD_GO_CHASE_IT
 
-A project of udacity nano-degree Robotics Software Engineer. 
+A project of Udacity Nano-degree Robotics Software Engineer. 
 
 A simple robot build in Gazebo with lidar and camera follows a white ball. 
 
